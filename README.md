@@ -5,7 +5,7 @@
 
 
 ## Video
-รายละเอียดเพิ่มเติม [link นำเสนอ](https://youtu.be/Bv1MXNuu6rk)
+รายละเอียดเพิ่มเติม [Fullpaper](https://drive.google.com/file/d/1iigT8oj_bSI5u6O4JsVlRwSub1pmlDol/view?usp=sharing)
 
 
 ## Requirment
