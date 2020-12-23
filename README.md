@@ -26,3 +26,6 @@ $ python app.py -t <ข้อความที่ต้องการแปล
   * `0` T2SB ลักษณะการอ่าน เช่น 124|1245|3|1236|(เก็บ) เป็นต้น
   * `1` T2BC braille comp code เช่น gra!%(กระเซอ)
 
+
+## Reference
+* [คู่มืออักษรเบรลล์](https://drive.google.com/drive/folders/1Q94Doe6sNTrUHup1C3LJ5LcGxhdIS1mj?usp=sharing)
