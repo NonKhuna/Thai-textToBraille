@@ -10,7 +10,7 @@ _top = ['่','้','๊','๋','็']
 _number=["0","1","2","3","4","5","6","7","8",'๑','๒','๓','๔','๕','๖','๗','๘','๙','๐']
 _numthai=['๑','๒','๓','๔','๕','๖','๗','๘','๙','๐']
 
-def T2B(text,numSylleble,quote) :
+def T2SB(text,numSylleble,quote) :
     stateNumber=0
     result = ''
 
