@@ -4,7 +4,7 @@
 * ลักษณะ braille comp code เช่น "G"  แทน "ก" <b>
 
 
-## Video
+## Description
 รายละเอียดเพิ่มเติม [Fullpaper](https://drive.google.com/file/d/1iigT8oj_bSI5u6O4JsVlRwSub1pmlDol/view?usp=sharing)
 
 
