@@ -3,9 +3,11 @@
 * ลักษณะการอ่าน เช่น "1234"(อ่าน จุด 1 จุด 2 จุด 3 จุด 4) แทน "ก"
 * ลักษณะ braille comp code เช่น "G"  แทน "ก" <b>
 
+## Poster
+![](doc/โปสเตอร์JSTP.png)
 
 ## Description
-รายละเอียดเพิ่มเติม [Fullpaper](https://drive.google.com/file/d/1iigT8oj_bSI5u6O4JsVlRwSub1pmlDol/view?usp=sharing)
+รายละเอียดเพิ่มเติม [Fullpaper](https://drive.google.com/file/d/1iigT8oj_bSI5u6O4JsVlRwSub1pmlDol/view?usp=sharing | width=600)
 
 
 ## Requirment
