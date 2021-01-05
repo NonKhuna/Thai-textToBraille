@@ -7,14 +7,14 @@ F=0
 allscore=0
 countTestcase=0
 
-# list_task = os.listdir(os.getcwd()+r'/testcase')
-list_task = os.listdir(os.getcwd()+r'/testcaseTBT')
+list_task = os.listdir(os.getcwd()+r'/testcase')
+# list_task = os.listdir(os.getcwd()+r'/testcaseTBT')
 
 def evaluate(task) :
     global allscore ,countTestcase,T,F
 
-    # cwd =os.path.join(os.getcwd()+r'/testcase',task)
-    cwd =os.path.join(os.getcwd()+r'/testcaseTBT',task)
+    cwd =os.path.join(os.getcwd()+r'/testcase',task)
+    # cwd =os.path.join(os.getcwd()+r'/testcaseTBT',task)
 
     f = open(cwd,"r",encoding="utf8")
 
@@ -36,7 +36,7 @@ def evaluate(task) :
     number=''
     for i in range(0,len(data),2) :
     
-        result = compile_T2B(data[i], 1)
+        result = compile_T2B(data[i], 0)
         # print(data[i] +"฿"+result+'฿'+result)
         if(i+1<len(data) and len(result)==len(data[i+1])) :
             notsame=0
