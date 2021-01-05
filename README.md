@@ -7,7 +7,7 @@
 ![](doc/โปสเตอร์JSTP.png)
 
 ## Description
-รายละเอียดเพิ่มเติม [Fullpaper](https://drive.google.com/file/d/1iigT8oj_bSI5u6O4JsVlRwSub1pmlDol/view?usp=sharing | width=600)
+รายละเอียดเพิ่มเติม [Fullpaper](https://drive.google.com/file/d/1iigT8oj_bSI5u6O4JsVlRwSub1pmlDol/view?usp=sharing)
 
 
 ## Requirment
